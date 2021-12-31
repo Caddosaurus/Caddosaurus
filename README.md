@@ -1,6 +1,8 @@
 **About Me:**
 - Canadian
-- Linux user (Kubuntu 21.04)
+- Arch btw
+
+Languages: Python, GDScript, some Rust, some JS
 
 -----BEGIN GEEK CODE BLOCK-----
 
