@@ -2,12 +2,8 @@
 - Canadian
 - Arch btw
 
-Languages: Python, GDScript, some Rust, some JS
+Languages: Python, GDScript, some (not much) Rust, some JS (barely)
 
------BEGIN GEEK CODE BLOCK-----
+I spend my time making games on the Godot Engine and writing simple Python scripts to make my life easier.
 
-Version: 3.1
-
-_S/G d>+ s+:- !a C++>$ ULC>++$ P L++>++++$ !E-- W+ N+ o? K-? !w-->--- !O M !V- PS? PE@ Y+>++ PGP++ !t 5? !X R tv+ b++ DI++ D+ G e-- h+ !r_
-
-------END GEEK CODE BLOCK------ 
+Am getting good at reading TFM.
